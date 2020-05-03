@@ -29,7 +29,7 @@
 	</form>
 </div>
 <div class="text-muted">
-    <h5>@Copyright: Krishnarjun Singh</h5>
+    <h5>@Copyright: Krishnarjun Singh </h5>
 </div>
 
 </body>
