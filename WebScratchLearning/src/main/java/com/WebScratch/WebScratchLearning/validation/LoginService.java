@@ -1,8 +1,8 @@
 package com.WebScratch.WebScratchLearning.validation;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+@Service
 public class LoginService {
 	
 	public boolean validateUser(String username, String password) {
